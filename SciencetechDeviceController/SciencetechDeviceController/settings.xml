@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BaudRate>19200</BaudRate>
+  <Parity>0</Parity>
+  <Handshaking>0</Handshaking>
+  <Stopbits>1</Stopbits>
+  <Databits>8</Databits>
+  <TerminationCharacter>\r</TerminationCharacter>
+  <PortName>COM5</PortName>
+</DeviceSettings>
